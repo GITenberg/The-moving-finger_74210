@@ -1,0 +1,44 @@
+_repo: The-moving-finger_74210
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wrenn, Charles L. (Charles Lewis)
+    birthdate: 1880
+    deathdate: 1952
+    gutenberg_agent_id: '25468'
+    url: http://www.gutenberg.org/2009/agents/25468
+creator:
+  author:
+    agent_name: Lincoln, Natalie Sumner
+    birthdate: 1881
+    deathdate: 1935
+    gutenberg_agent_id: '711'
+    url: http://www.gutenberg.org/2009/agents/711
+    wikipedia: https://en.wikipedia.org/wiki/Natalie_Sumner_Lincoln
+description: ''
+gutenberg_issued: '2024-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74210'
+language: en
+pgterms:marc904: https://archive.org/details/movingfinger00compgoog/page/n326/mode/2up
+pgterms:marc905: 20211118170108lincoln
+pgterms:marc906: '1918'
+pgterms:marc907: US
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew York and London :$bD. Appleton and Company, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Inspector Mitchell
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Murder -- Investigation -- Fiction'
+- !lcsh 'Nurses -- Fiction'
+- !lcsh 'Washington (D.C.) Region -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The moving finger
+url: http://www.gutenberg.org/ebooks/74210
